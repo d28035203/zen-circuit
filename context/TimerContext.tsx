@@ -1,5 +1,5 @@
 /**
- * TimerContext.tsx — animated-enigma
+ * TimerContext.tsx — zen-circuit
  * @author d28035203
  */
 

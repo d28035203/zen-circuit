@@ -1,5 +1,5 @@
 /**
- * AffirmationCategory.ts — animated-enigma
+ * AffirmationCategory.ts — zen-circuit
  * @author d28035203
  */
 

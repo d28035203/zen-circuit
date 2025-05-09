@@ -1,5 +1,5 @@
 /**
- * CustomButton.tsx — animated-enigma
+ * CustomButton.tsx — zen-circuit
  * @author d28035203
  */
 

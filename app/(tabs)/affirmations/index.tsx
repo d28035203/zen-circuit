@@ -1,5 +1,5 @@
 /**
- * index.tsx — animated-enigma
+ * index.tsx — zen-circuit
  * @author d28035203
  */
 

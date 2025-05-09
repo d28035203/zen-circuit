@@ -1,5 +1,5 @@
 /**
- * affirmation-gallary.ts — animated-enigma
+ * affirmation-gallary.ts — zen-circuit
  * @author d28035203
  */
 

@@ -1,5 +1,5 @@
 /**
- * AppGradient.tsx — animated-enigma
+ * AppGradient.tsx — zen-circuit
  * @author d28035203
  */
 

@@ -1,5 +1,5 @@
 /**
- * babel.config.js — animated-enigma
+ * babel.config.js — zen-circuit
  * @author d28035203
  */
 

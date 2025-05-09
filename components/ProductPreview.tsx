@@ -1,5 +1,5 @@
 /**
- * ProductPreview.tsx — animated-enigma
+ * ProductPreview.tsx — zen-circuit
  * @author d28035203
  */
 

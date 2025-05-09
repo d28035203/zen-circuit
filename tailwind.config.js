@@ -1,5 +1,5 @@
 /**
- * tailwind.config.js — animated-enigma
+ * tailwind.config.js — zen-circuit
  * @author d28035203
  */
 

@@ -1,5 +1,5 @@
 /**
- * GuidedAffirmationsGallery.tsx — animated-enigma
+ * GuidedAffirmationsGallery.tsx — zen-circuit
  * @author d28035203
  */
 

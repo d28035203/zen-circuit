@@ -1,5 +1,5 @@
 /**
- * app.d.ts — animated-enigma
+ * app.d.ts — zen-circuit
  * @author d28035203
  */
 

@@ -1,5 +1,5 @@
 /**
- * adjust-meditation-duration.tsx — animated-enigma
+ * adjust-meditation-duration.tsx — zen-circuit
  * @author d28035203
  */
 

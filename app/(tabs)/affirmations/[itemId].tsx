@@ -1,5 +1,5 @@
 /**
- * [itemId].tsx — animated-enigma
+ * [itemId].tsx — zen-circuit
  * @author d28035203
  */
 

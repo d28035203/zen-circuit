@@ -1,5 +1,5 @@
 /**
- * nature-meditate.tsx — animated-enigma
+ * nature-meditate.tsx — zen-circuit
  * @author d28035203
  */
 

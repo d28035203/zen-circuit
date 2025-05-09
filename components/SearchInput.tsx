@@ -1,5 +1,5 @@
 /**
- * SearchInput.tsx — animated-enigma
+ * SearchInput.tsx — zen-circuit
  * @author d28035203
  */
 

@@ -5,10 +5,10 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "simplemeditation",
+    "scheme": "Zen Circuit",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/simpleMeditationLogo.png",
+      "image": "./assets/Zen CircuitLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

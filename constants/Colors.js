@@ -1,5 +1,5 @@
 /**
- * Colors.js — animated-enigma
+ * Colors.js — zen-circuit
  * @author d28035203
  */
 

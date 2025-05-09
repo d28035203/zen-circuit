@@ -1,5 +1,5 @@
 /**
- * MeditationPreview.tsx — animated-enigma
+ * MeditationPreview.tsx — zen-circuit
  * @author d28035203
  */
 

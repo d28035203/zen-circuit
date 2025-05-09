@@ -1,5 +1,5 @@
 /**
- * meditation-images.ts — animated-enigma
+ * meditation-images.ts — zen-circuit
  * @author d28035203
  */
 

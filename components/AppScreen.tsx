@@ -1,5 +1,5 @@
 /**
- * AppScreen.tsx — animated-enigma
+ * AppScreen.tsx — zen-circuit
  * @author d28035203
  */
 
